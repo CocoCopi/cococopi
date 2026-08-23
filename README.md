@@ -1,6 +1,6 @@
-![Corros](https://raw.githubusercontent.com/CocoCopi/corros/47f8edef7a4b6dd21babfc8bfdb542c01a686c96/img/Linear%20Branding.png)
+<img src="https://github.com/CocoCopi/corros/blob/955f5a9cdaaae3883640302971127e8e56fe6814/img/Linear%20Branding.png" alt="Sample" style="width:70%; height:auto;">
 
-# CocoCopi — Enterprise Ecosystem
+## About Coco Copi
 
 CocoCopi is a forward-thinking software engineering company building a comprehensive ecosystem of programming languages, frameworks, and infrastructure tools. Our mission is to provide complete, self-hosted solutions that give developers full control over their technology stack.
 
@@ -9,10 +9,11 @@ CocoCopi is a forward-thinking software engineering company building a comprehen
 ## Connect With Us
 
 - **GitHub**: [github.com/CocoCopi](https://github.com/CocoCopi)
-- **Website**: Coming Soon
-- **Email**: [contact@cococopi.dev](mailto:contact@cococopi.dev)
-- **Twitter/X**: [@CocoCopi](https://twitter.com/CocoCopi)
-- **LinkedIn**: [CocoCopi](https://linkedin.com/company/cococopi)
+- **Website**: [CCWEB]([https://github.com/CocoCopi](https://cococopi-site.vercel.app/))
+- **Email**: [contactme@email](mailto:vishalbabuyt04@gmail.com)
+- **Twitter/X**: [@Coco_Copi](https://x.com/Coco_Copi)
+- **Youtube**: [@TheCocoCopi](https://www.youtube.com/@TheCocoCopi)
+- **Instagram**: [cococopidevelopers](https://www.instagram.com/cococopidevelopers/)
 
 ---
 
