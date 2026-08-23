@@ -1,6 +1,6 @@
 <img src="https://github.com/CocoCopi/corros/blob/955f5a9cdaaae3883640302971127e8e56fe6814/img/Linear%20Branding.png" alt="Sample" style="width:70%; height:auto;">
 
-## About Coco Copi
+## About Coco Copi Developers
 
 CocoCopi is a forward-thinking software engineering company building a comprehensive ecosystem of programming languages, frameworks, and infrastructure tools. Our mission is to provide complete, self-hosted solutions that give developers full control over their technology stack.
 
