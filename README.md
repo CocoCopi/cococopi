@@ -1,12 +1,12 @@
-# 🚀 CocoCopi — Language & Systems Engineer
+# CocoCopi — Language & Systems Engineer
 
 Welcome to my GitHub profile. I'm a language and systems engineer building the **Corros ecosystem**—a comprehensive programming language and suite of frameworks forged from scratch.
 
 ---
 
-## 🎯 Core Projects
+## Core Projects
 
-### **Corros Programming Language**
+### Corros Programming Language
 The foundation of everything. A complete, self-hosting programming language with:
 - **Custom lexer & bytecode compiler** written in Corros itself
 - **Native virtual machine** achieving native-speed compilation
@@ -16,9 +16,9 @@ The foundation of everything. A complete, self-hosting programming language with
 
 ---
 
-## 📚 Corros Ecosystem
+## Corros Ecosystem
 
-### **Web & Framework Layer**
+### Web & Framework Layer
 | Project | Description |
 |---------|-------------|
 | **[KilnCraft](https://github.com/CocoCopi/kilncraft)** | Express-style web framework for Corros with routing, middleware, sessions, and static file serving |
@@ -26,28 +26,28 @@ The foundation of everything. A complete, self-hosting programming language with
 | **[CourierForge](https://github.com/CocoCopi/courierforge)** | Requests-style HTTP client library for Corros |
 | **[BrothForge](https://github.com/CocoCopi/brothforge)** | BeautifulSoup-style HTML parser for Corros |
 
-### **Machine Learning & Data Science**
+### Machine Learning & Data Science
 | Project | Description |
 |---------|-------------|
 | **[CryoQuench](https://github.com/CocoCopi/cryoquench)** | ML framework from scratch: tensors, autograd, layers, optimizers with fast C tensor core |
 | **[CryoTorch](https://github.com/CocoCopi/cryotorch)** | PyTorch-shaped deep learning framework built on CryoQuench |
 | **[OreMath](https://github.com/CocoCopi/oremath)** | NumPy-style ndarray library, pure Corros implementation |
 
-### **Infrastructure & Services**
+### Infrastructure & Services
 | Project | Description |
 |---------|-------------|
 | **[AnvilForge](https://github.com/CocoCopi/anvilforge)** | Self-hosted PaaS (Render/Heroku-style) with zero-downtime deploys, health-check rollback, and RBAC tokens |
 | **[Custodian](https://github.com/CocoCopi/custodian)** | Self-hosted PaaS with full infrastructure ownership |
 | **[Crucible](https://github.com/CocoCopi/crucible)** | Local LLM server with HTTP API, model store, recommender, and llama.cpp FFI integration |
 
-### **Frontend & Display**
+### Frontend & Display
 | Project | Description |
 |---------|-------------|
 | **[CC Web](https://github.com/CocoCopi/CC_Web)** | Company dashboard website rendered entirely in Corros |
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
 - **Primary Language**: Corros (custom)
 - **Native Performance**: C/Shell for high-speed components
@@ -56,7 +56,7 @@ The foundation of everything. A complete, self-hosting programming language with
 
 ---
 
-## 💡 Philosophy
+## Philosophy
 
 Every project in this ecosystem is built with intention:
 - **Self-hosting**: No external dependencies where possible
@@ -66,7 +66,7 @@ Every project in this ecosystem is built with intention:
 
 ---
 
-## 📊 Repository Overview
+## Repository Overview
 
 ```
 Corros Ecosystem
@@ -89,17 +89,17 @@ Corros Ecosystem
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
-✅ **Complete self-hosting** — No external language dependencies  
-✅ **Industry-familiar APIs** — Learn Corros by recognizing the patterns  
-✅ **Native performance** — Bytecode + optimized C cores  
-✅ **Modern tooling** — HTTP, ML, web components, all built-in  
-✅ **Production-ready** — PaaS, LLM servers, and deployment tools  
+- **Complete self-hosting** — No external language dependencies
+- **Industry-familiar APIs** — Learn Corros by recognizing the patterns
+- **Native performance** — Bytecode + optimized C cores
+- **Modern tooling** — HTTP, ML, web components, all built-in
+- **Production-ready** — PaaS, LLM servers, and deployment tools
 
 ---
 
-## 📫 Get Involved
+## Get Involved
 
 Explore the repositories above to dive deeper into any aspect of the Corros ecosystem. Each project includes detailed documentation and is open for contribution.
 
