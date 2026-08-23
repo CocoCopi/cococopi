@@ -9,7 +9,7 @@ CocoCopi is a forward-thinking software engineering company building a comprehen
 ## Connect With Us
 
 - **GitHub**: [github.com/CocoCopi](https://github.com/CocoCopi)
-- **Website**: [CCWEB]([https://github.com/CocoCopi](https://cococopi-site.vercel.app/))
+- **Website**: [CCWEB](https://cococopi-site.vercel.app/)
 - **Email**: [contactme@email](mailto:vishalbabuyt04@gmail.com)
 - **Twitter/X**: [@Coco_Copi](https://x.com/Coco_Copi)
 - **Youtube**: [@TheCocoCopi](https://www.youtube.com/@TheCocoCopi)
