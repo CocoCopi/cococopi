@@ -1,64 +1,73 @@
-# CocoCopi — Language & Systems Engineer
+![Corros](https://raw.githubusercontent.com/CocoCopi/corros/47f8edef7a4b6dd21babfc8bfdb542c01a686c96/img/Linear%20Branding.png)
 
-Welcome to my GitHub profile. I'm a language and systems engineer building the **Corros ecosystem**—a comprehensive programming language and suite of frameworks forged from scratch.
+# CocoCopi — Enterprise Ecosystem
+
+CocoCopi is a forward-thinking software engineering company building a comprehensive ecosystem of programming languages, frameworks, and infrastructure tools. Our mission is to provide complete, self-hosted solutions that give developers full control over their technology stack.
 
 ---
 
-## Core Projects
+## Connect With Us
+
+- **GitHub**: [github.com/CocoCopi](https://github.com/CocoCopi)
+- **Website**: Coming Soon
+- **Email**: [contact@cococopi.dev](mailto:contact@cococopi.dev)
+- **Twitter/X**: [@CocoCopi](https://twitter.com/CocoCopi)
+- **LinkedIn**: [CocoCopi](https://linkedin.com/company/cococopi)
+
+---
+
+## Our Products
 
 ### Corros Programming Language
 The foundation of everything. A complete, self-hosting programming language with:
-- **Custom lexer & bytecode compiler** written in Corros itself
-- **Native virtual machine** achieving native-speed compilation
-- **Unique syntax** inspired by no single language
-- **Host services**: sockets, HTTP, dynamic library loading (dlopen), and FFI
-- **Repository**: [CocoCopi/corros](https://github.com/CocoCopi/corros)
-
----
-
-## Corros Ecosystem
+- Custom lexer & bytecode compiler written in Corros itself
+- Native virtual machine achieving native-speed compilation
+- Unique syntax inspired by no single language
+- Host services: sockets, HTTP, dynamic library loading (dlopen), and FFI
+- Repository: [CocoCopi/corros](https://github.com/CocoCopi/corros)
 
 ### Web & Framework Layer
-| Project | Description |
-|---------|-------------|
-| **[KilnCraft](https://github.com/CocoCopi/kilncraft)** | Express-style web framework for Corros with routing, middleware, sessions, and static file serving |
-| **[GlazeCraft](https://github.com/CocoCopi/glazecraft)** | React-style component framework with hooks and server-side rendering (SSR) |
-| **[CourierForge](https://github.com/CocoCopi/courierforge)** | Requests-style HTTP client library for Corros |
-| **[BrothForge](https://github.com/CocoCopi/brothforge)** | BeautifulSoup-style HTML parser for Corros |
+| Product | Description | Repository |
+|---------|-------------|------------|
+| KilnCraft | Express-style web framework for Corros with routing, middleware, sessions, and static file serving | [kilncraft](https://github.com/CocoCopi/kilncraft) |
+| GlazeCraft | React-style component framework with hooks and server-side rendering (SSR) | [glazecraft](https://github.com/CocoCopi/glazecraft) |
+| CourierForge | Requests-style HTTP client library for Corros | [courierforge](https://github.com/CocoCopi/courierforge) |
+| BrothForge | BeautifulSoup-style HTML parser for Corros | [brothforge](https://github.com/CocoCopi/brothforge) |
 
 ### Machine Learning & Data Science
-| Project | Description |
-|---------|-------------|
-| **[CryoQuench](https://github.com/CocoCopi/cryoquench)** | ML framework from scratch: tensors, autograd, layers, optimizers with fast C tensor core |
-| **[CryoTorch](https://github.com/CocoCopi/cryotorch)** | PyTorch-shaped deep learning framework built on CryoQuench |
-| **[OreMath](https://github.com/CocoCopi/oremath)** | NumPy-style ndarray library, pure Corros implementation |
+| Product | Description | Repository |
+|---------|-------------|------------|
+| CryoQuench | ML framework from scratch: tensors, autograd, layers, optimizers with fast C tensor core | [cryoquench](https://github.com/CocoCopi/cryoquench) |
+| CryoTorch | PyTorch-shaped deep learning framework built on CryoQuench | [cryotorch](https://github.com/CocoCopi/cryotorch) |
+| OreMath | NumPy-style ndarray library, pure Corros implementation | [oremath](https://github.com/CocoCopi/oremath) |
 
 ### Infrastructure & Services
-| Project | Description |
-|---------|-------------|
-| **[AnvilForge](https://github.com/CocoCopi/anvilforge)** | Self-hosted PaaS (Render/Heroku-style) with zero-downtime deploys, health-check rollback, and RBAC tokens |
-| **[Custodian](https://github.com/CocoCopi/custodian)** | Self-hosted PaaS with full infrastructure ownership |
-| **[Crucible](https://github.com/CocoCopi/crucible)** | Local LLM server with HTTP API, model store, recommender, and llama.cpp FFI integration |
+| Product | Description | Repository |
+|---------|-------------|------------|
+| AnvilForge | Self-hosted PaaS (Render/Heroku-style) with zero-downtime deploys, health-check rollback, and RBAC tokens | [anvilforge](https://github.com/CocoCopi/anvilforge) |
+| Custodian | Self-hosted PaaS with full infrastructure ownership | [custodian](https://github.com/CocoCopi/custodian) |
+| Crucible | Local LLM server with HTTP API, model store, recommender, and llama.cpp FFI integration | [crucible](https://github.com/CocoCopi/crucible) |
 
 ### Frontend & Display
-| Project | Description |
-|---------|-------------|
-| **[CC Web](https://github.com/CocoCopi/CC_Web)** | Company dashboard website rendered entirely in Corros |
+| Product | Description | Repository |
+|---------|-------------|------------|
+| CC Web | Company dashboard website rendered entirely in Corros | [CC_Web](https://github.com/CocoCopi/CC_Web) |
 
 ---
 
 ## Technology Stack
 
-- **Primary Language**: Corros (custom)
-- **Native Performance**: C/Shell for high-speed components
-- **Infrastructure**: Go, JavaScript
-- **Frameworks**: Custom implementations of industry-standard patterns
+- Primary Language: Corros (proprietary)
+- Native Performance: C/Shell for high-speed components
+- Infrastructure: Go, JavaScript
+- Frameworks: Custom implementations of industry-standard patterns
 
 ---
 
 ## Philosophy
 
-Every project in this ecosystem is built with intention:
+Every project in the CocoCopi ecosystem is built with intention:
+
 - **Self-hosting**: No external dependencies where possible
 - **From scratch**: Compilers, parsers, and frameworks written ground-up
 - **Native speed**: Bytecode compilation and optimized C cores
@@ -66,10 +75,10 @@ Every project in this ecosystem is built with intention:
 
 ---
 
-## Repository Overview
+## Repository Structure
 
 ```
-Corros Ecosystem
+CocoCopi Ecosystem
 ├── Core Language
 │   └── corros/
 ├── Web & HTTP
@@ -89,20 +98,22 @@ Corros Ecosystem
 
 ---
 
-## Highlights
+## Key Features
 
-- **Complete self-hosting** — No external language dependencies
-- **Industry-familiar APIs** — Learn Corros by recognizing the patterns
-- **Native performance** — Bytecode + optimized C cores
-- **Modern tooling** — HTTP, ML, web components, all built-in
-- **Production-ready** — PaaS, LLM servers, and deployment tools
+- Complete self-hosting — No external language dependencies
+- Industry-familiar APIs — Learn Corros by recognizing the patterns
+- Native performance — Bytecode + optimized C cores
+- Modern tooling — HTTP, ML, web components, all built-in
+- Production-ready — PaaS, LLM servers, and deployment tools
 
 ---
 
-## Get Involved
+## Explore Our Work
 
-Explore the repositories above to dive deeper into any aspect of the Corros ecosystem. Each project includes detailed documentation and is open for contribution.
+Visit the repositories above to dive deeper into any aspect of the CocoCopi ecosystem. Each project includes detailed documentation and is open for collaboration.
 
 ---
 
 **Built with intention. Forged from scratch.**
+
+Copyright © 2024 CocoCopi. All rights reserved.
