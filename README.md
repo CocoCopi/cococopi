@@ -1,4 +1,4 @@
-<img src="https://github.com/CocoCopi/corros/blob/fb60c79addf7ae1970c7f6bb7e8e4d813c851842/img/ccdev.png" alt="Sample" style="width:70%; height:auto;">
+<img src="https://github.com/CocoCopi/corros/blob/fb60c79addf7ae1970c7f6bb7e8e4d813c851842/img/ccdev.png" alt="Sample" style="width:15%; height:auto;">
 
 ## About Coco Copi Developers
 
