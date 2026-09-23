@@ -1,4 +1,4 @@
-<img src="https://github.com/CocoCopi/vega-cloud/blob/fec700ca769436431312546be4a505258c368fae/Brand%20Assets/cc-horizontal.png" alt="Sample" style="width:30%; height:auto;">
+<img src="https://github.com/CocoCopi/vega-cloud/blob/fec700ca769436431312546be4a505258c368fae/Brand%20Assets/cc-horizontal.png" alt="Sample" style="width:45%; height:auto;">
 
 ## About
 
@@ -9,16 +9,16 @@ Coco Copi is a forward-thinking software engineering company building a comprehe
 
 ```
 
-           ██╗   ██╗███████╗ ██████╗  █████╗
-            ██║   ██║██╔════╝██╔════╝ ██╔══██╗
-            ██║   ██║█████╗  ██║  ███╗███████║
-            ╚██╗ ██╔╝██╔══╝  ██║   ██║██╔══██║
-             ╚████╔╝ ███████╗╚██████╔╝██║  ██║
-              ╚═══╝  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+                ██╗   ██╗███████╗ ██████╗  █████╗
+                 ██║   ██║██╔════╝██╔════╝ ██╔══██╗
+                 ██║   ██║█████╗  ██║  ███╗███████║
+                 ╚██╗ ██╔╝██╔══╝  ██║   ██║██╔══██║
+                  ╚████╔╝ ███████╗╚██████╔╝██║  ██║
+                   ╚═══╝  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
 
-          An AI coding agent for your terminal. It reads your project, plans, edits files,
-          runs commands, verifies its own work, and reports back — in a full-screen
-          terminal UI or a plain shell
+               An AI coding agent for your terminal. It reads your project, plans, edits files,
+               runs commands, verifies its own work, and reports back — in a full-screen
+               terminal UI or a plain shell
 ```
  
 </div>
