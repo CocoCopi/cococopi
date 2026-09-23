@@ -1,15 +1,34 @@
-<img src="https://github.com/CocoCopi/corros/blob/fb60c79addf7ae1970c7f6bb7e8e4d813c851842/img/ccdev.png" alt="Sample" style="width:30%; height:auto;">
+<img src="https://github.com/CocoCopi/vega-cloud/blob/fec700ca769436431312546be4a505258c368fae/Brand%20Assets/cc-horizontal.png" alt="Sample" style="width:30%; height:auto;">
 
-## About Coco Copi Developers
+## About
 
-CocoCopi is a forward-thinking software engineering company building a comprehensive ecosystem of programming languages, frameworks, and infrastructure tools. Our mission is to provide complete, self-hosted solutions that give developers full control over their technology stack.
+Coco Copi is a forward-thinking software engineering company building a comprehensive ecosystem of programming languages, frameworks, and infrastructure tools. Our mission is to provide complete, self-hosted solutions that give developers full control over their technology stack.
 
----
+## Currently into Developing
+ <div align="center">
+
+```
+
+           ██╗   ██╗███████╗ ██████╗  █████╗
+            ██║   ██║██╔════╝██╔════╝ ██╔══██╗
+            ██║   ██║█████╗  ██║  ███╗███████║
+            ╚██╗ ██╔╝██╔══╝  ██║   ██║██╔══██║
+             ╚████╔╝ ███████╗╚██████╔╝██║  ██║
+              ╚═══╝  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+
+          An AI coding agent for your terminal. It reads your project, plans, edits files,
+          runs commands, verifies its own work, and reports back — in a full-screen
+          terminal UI or a plain shell
+```
+ 
+</div>
+
+**Click here hor more info**: [VEGA CLOUD](https://vega-cloud-tm83.vercel.app/)
 
 ## Connect With Us
 
 - **GitHub**: [github.com/CocoCopi](https://github.com/CocoCopi)
-- **Website**: [CCWEB](https://cococopi-site.vercel.app/)
+- **Website**: [CCWEB](https://cococopi.dpdns.org)
 - **Email**: [contactme@email](mailto:vishalbabuyt04@gmail.com)
 - **Twitter/X**: [@Coco_Copi](https://x.com/Coco_Copi)
 - **Youtube**: [@TheCocoCopi](https://www.youtube.com/@TheCocoCopi)
@@ -41,6 +60,7 @@ The foundation of everything. A complete, self-hosting programming language with
 | CryoQuench | ML framework from scratch: tensors, autograd, layers, optimizers with fast C tensor core | [cryoquench](https://github.com/CocoCopi/cryoquench) |
 | CryoTorch | PyTorch-shaped deep learning framework built on CryoQuench | [cryotorch](https://github.com/CocoCopi/cryotorch) |
 | OreMath | NumPy-style ndarray library, pure Corros implementation | [oremath](https://github.com/CocoCopi/oremath) |
+| Vega |  An AI coding agent for your terminal | [Vega Cloud](https://vega-cloud-tm83.vercel.app/) |
 
 ### Infrastructure & Services
 | Product | Description | Repository |
