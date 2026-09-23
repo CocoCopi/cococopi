@@ -9,16 +9,16 @@ Coco Copi is a forward-thinking software engineering company building a comprehe
 
 ```
 
-                ██╗   ██╗███████╗ ██████╗  █████╗
-                 ██║   ██║██╔════╝██╔════╝ ██╔══██╗
-                 ██║   ██║█████╗  ██║  ███╗███████║
-                 ╚██╗ ██╔╝██╔══╝  ██║   ██║██╔══██║
-                  ╚████╔╝ ███████╗╚██████╔╝██║  ██║
-                   ╚═══╝  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+              ██╗   ██╗███████╗ ██████╗  █████╗
+               ██║   ██║██╔════╝██╔════╝ ██╔══██╗
+               ██║   ██║█████╗  ██║  ███╗███████║
+               ╚██╗ ██╔╝██╔══╝  ██║   ██║██╔══██║
+                ╚████╔╝ ███████╗╚██████╔╝██║  ██║
+                 ╚═══╝  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
 
-               An AI coding agent for your terminal. It reads your project, plans, edits files,
-               runs commands, verifies its own work, and reports back — in a full-screen
-               terminal UI or a plain shell
+             An AI coding agent for your terminal. It reads your project, plans, edits files,
+             runs commands, verifies its own work, and reports back — in a full-screen
+             terminal UI or a plain shell
 ```
  
 </div>
